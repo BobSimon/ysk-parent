@@ -15,7 +15,14 @@
 
 # 技术栈
 ## dubbo 
+>>> http://dubbo.apache.org/en-us/
 ## redis
+>>> https://redis.io/
 ## springboot
+>>> https://spring.io/projects/spring-boot
 ## rabbitmq
+>>> http://www.rabbitmq.com/
 ## zookpeer
+>>> https://zookeeper.apache.org/
+## spring cloud
+>>> http://projects.spring.io/spring-cloud/
