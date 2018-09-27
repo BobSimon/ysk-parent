@@ -24,9 +24,7 @@ public class App implements CommandLineRunner {
 
 	@Override
 	public void run(String... strings) throws Exception {
-		System.err.println("SpringBoot Start servicedd Success");
-
+		System.err.println("启动生产者");
 	}
-
 
 }

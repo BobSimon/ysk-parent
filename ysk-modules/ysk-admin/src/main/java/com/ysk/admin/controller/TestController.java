@@ -22,6 +22,9 @@ import com.ysk.api.service.UserService;
 @RequestMapping("/")
 public class TestController {
 
+	/**
+	 * 引用阿里巴巴包
+	 */
 	@Reference(version = "1.0.0")
 	private UserService testService;
 
