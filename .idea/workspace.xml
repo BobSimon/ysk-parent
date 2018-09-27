@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="458357c9-fce3-4315-a8a9-315f893fe5f2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="458357c9-fce3-4315-a8a9-315f893fe5f2" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/ysk-foundation/target/" />
     <ignored path="$PROJECT_DIR$/ysk-service/target/" />
     <ignored path="$PROJECT_DIR$/ysk-modules/ysk-admin/target/" />
@@ -23,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="569">
+              <first_editor relative-caret-position="756">
                 <caret line="27" column="43" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
               </first_editor>
               <second_editor />
@@ -62,11 +57,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ysk-service/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1484">
-              <caret line="53" column="31" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
+            <state relative-caret-position="1372">
+              <caret line="49" column="25" lean-forward="true" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -186,6 +181,32 @@
               <item name="ysk-parent" type="462c0819:PsiDirectoryNode" />
               <item name="ysk-modules" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ysk-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ysk-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ysk-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ysk-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ysk-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ysk-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ysk-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ysk-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ysk-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ysk-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ysk-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="ysk-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -325,7 +346,7 @@
       <updated>1533513331773</updated>
       <workItem from="1533513336658" duration="2251000" />
       <workItem from="1538004851376" duration="8142000" />
-      <workItem from="1538021933004" duration="292000" />
+      <workItem from="1538021933004" duration="415000" />
     </task>
     <servers />
   </component>
@@ -335,7 +356,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10685000" />
+    <option name="totallyTimeSpent" value="10808000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -370,8 +391,8 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.16853933" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.32921347" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.07874016" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27145922" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.1799775" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27145922" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="4" />
@@ -786,17 +807,10 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="569">
+          <first_editor relative-caret-position="756">
             <caret line="27" column="43" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ysk-service/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1484">
-          <caret line="53" column="31" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -804,6 +818,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="56">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ysk-service/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1372">
+          <caret line="49" column="25" lean-forward="true" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
         </state>
       </provider>
     </entry>
