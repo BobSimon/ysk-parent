@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ysk-modules/ysk-admin/ysk-admin.iml" filepath="$PROJECT_DIR$/ysk-modules/ysk-admin/ysk-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ysk-api/ysk-api.iml" filepath="$PROJECT_DIR$/ysk-api/ysk-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ysk-foundation/ysk-foundation.iml" filepath="$PROJECT_DIR$/ysk-foundation/ysk-foundation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ysk-modules/ysk-modules.iml" filepath="$PROJECT_DIR$/ysk-modules/ysk-modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ysk-parent.iml" filepath="$PROJECT_DIR$/ysk-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ysk-service/ysk-service.iml" filepath="$PROJECT_DIR$/ysk-service/ysk-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ysk-modules/ysk-www/ysk-www.iml" filepath="$PROJECT_DIR$/ysk-modules/ysk-www/ysk-www.iml" />
+    </modules>
+  </component>
+</project>

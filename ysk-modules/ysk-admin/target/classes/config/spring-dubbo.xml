@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dubbo="http://code.alibabatech.com/schema/dubbo"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd
+       http://code.alibabatech.com/schema/dubbo
+       http://code.alibabatech.com/schema/dubbo/dubbo.xsd">
+
+	<!-- 消费者注册 -->
+	<dubbo:application name="consumer" />
+	<dubbo:consumer check="false" timeout="6000"/>
+
+	<!-- 注册  -->
+	<!--<dubbo:registry address="zookeeper://192.168.1.29:2181" />-->
+	<dubbo:registry address="zookeeper://127.0.0.1:2181" />
+
+	<!-- 注解对应接口暴露的地方 -->
+	<dubbo:annotation package="com.ysk.admin.controller" />
+
+</beans>
